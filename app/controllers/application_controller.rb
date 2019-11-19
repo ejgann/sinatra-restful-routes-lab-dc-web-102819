@@ -6,4 +6,8 @@ class ApplicationController < Sinatra::Base
 
   # code actions here!
 
+    POST "/recipes/new" do
+      
+    end
+
 end
